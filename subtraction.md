@@ -1,0 +1,1 @@
+#Subtracting involves removing an amount from a value. For example, 4 - 2 = 2.
